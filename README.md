@@ -18,3 +18,6 @@ projeto simples para realizar sorteios de amigo secreto.
 ## ✍️ Autores
 
 - [Wellington Santos] (https://github.com/wL-Sants) - Desenvolvedor
+
+## 🎨 Visual do Projeto
+![Tela do Projeto](https://imgur.com/gonmEfm)
