@@ -4,9 +4,9 @@ projeto simples para realizar sorteios de amigo secreto.
 
 ## 👨‍💻 Tecnologias Utilizadas
  
-- ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML**
-- ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> **HTML**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> **CSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> **JavaScript**
 
 ## 📝 Como usar?
 
